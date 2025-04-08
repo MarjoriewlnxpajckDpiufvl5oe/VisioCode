@@ -1,3 +1,4 @@
 # VisioCodeVisioCodeIntroduction
 VisionObjectives
 SetupInstructions
+ImageProcessingFeatures
