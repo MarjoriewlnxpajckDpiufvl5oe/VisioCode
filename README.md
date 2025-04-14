@@ -4,3 +4,4 @@ SetupInstructions
 ImageProcessingFeatures
 RequiredDependencies
 CodeSamples
+ConfigurationDetails
