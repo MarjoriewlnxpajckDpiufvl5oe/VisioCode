@@ -5,3 +5,4 @@ ImageProcessingFeatures
 RequiredDependencies
 CodeSamples
 ConfigurationDetails
+ContributionInstructions
