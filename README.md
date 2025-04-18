@@ -6,3 +6,4 @@ RequiredDependencies
 CodeSamples
 ConfigurationDetails
 ContributionInstructions
+ErrorDebugging
