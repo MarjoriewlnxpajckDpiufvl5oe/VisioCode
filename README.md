@@ -8,3 +8,4 @@ ConfigurationDetails
 ContributionInstructions
 ErrorDebugging
 LicenseInfo
+VisionFAQ
