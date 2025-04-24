@@ -9,3 +9,4 @@ ContributionInstructions
 ErrorDebugging
 LicenseInfo
 VisionFAQ
+VersionLog
