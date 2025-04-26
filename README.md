@@ -10,3 +10,4 @@ ErrorDebugging
 LicenseInfo
 VisionFAQ
 VersionLog
+TestingFramework
