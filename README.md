@@ -11,3 +11,4 @@ LicenseInfo
 VisionFAQ
 VersionLog
 TestingFramework
+ImagePerformance
