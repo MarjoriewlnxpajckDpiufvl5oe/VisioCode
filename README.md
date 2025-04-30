@@ -12,3 +12,4 @@ VisionFAQ
 VersionLog
 TestingFramework
 ImagePerformance
+SupportResources
